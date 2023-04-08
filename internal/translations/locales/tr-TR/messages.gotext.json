@@ -1,0 +1,15 @@
+{
+    "language": "tr-TR",
+    "messages": [
+        {
+            "id": "Welcome!",
+            "message": "Welcome!",
+            "translation": "Hoşgeldiniz!"
+        },
+        {
+            "id": "System is running",
+            "message": "System is running",
+            "translation": "Sistem çalışıyor"
+        }
+    ]
+}

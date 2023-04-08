@@ -1,0 +1,19 @@
+{
+    "language": "en-GB",
+    "messages": [
+        {
+            "id": "Welcome!",
+            "message": "Welcome!",
+            "translation": "Welcome!",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "System is running",
+            "message": "System is running",
+            "translation": "System is running",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        }
+    ]
+}
